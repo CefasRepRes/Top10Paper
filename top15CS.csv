@@ -1,0 +1,16 @@
+"items_2012","items_2013","items_2014","items_2015","items_2016","items_2017","items_2018","items_2019","items_2020","freq_2012","freq_2013","freq_2014","freq_2015","freq_2016","freq_2017","freq_2018","freq_2019","freq_2020"
+"synthrope.bin","synthrope.bin","bag.bin","synthrope.bin","synthrope.bin","sheet.bin","sheet.bin","synthrope.bin","synthrope.bin",90,72,61,53,51,50,101,104,81
+"fishline.mono.bin","fishline.mono.bin","synthrope.bin","bag.bin","fishline.mono.bin","band.bin","synthrope.bin","fishline.mono.bin","sheet.bin",38,47,50,23,37,45,96,81,72
+"bag.bin","bag.bin","sheet.bin","sheet.bin","caps.bin","caps.bin","fishline.mono.bin","sheet.bin","fishline.mono.bin",34,42,49,22,36,41,63,70,58
+"crates.bin","caps.bin","fishline.mono.bin","fishline.mono.bin","band.bin","synthrope.bin","bag.bin","bag.bin","bag.bin",32,38,48,20,34,18,55,64,45
+"fishnet.bin","crates.bin","fishline.tang.bin","other.plas.bin","bag.bin","bottles.plas.bin","other.plas.bin","fishnet.bin","other.plas.bin",29,36,32,15,29,14,44,36,30
+"caps.bin","sheet.bin","fishnet.bin","rope.bin","sheet.bin","bag.bin","fishnet.bin","other.plas.bin","fishline.tang.bin",23,30,25,15,26,14,25,27,25
+"rope.bin","band.bin","other.plas.bin","fishline.tang.bin","fishnet.bin","fishnet.bin","bottles.plas.bin","bottles.plas.bin","bottles.plas.bin",17,22,22,11,18,14,23,23,17
+"fishline.tang.bin","fishnet.bin","bottles.plas.bin","fishnet.bin","bottles.plas.bin","cabletie.bin","clothing.bin","clothing.bin","cans.drink.bin",11,19,13,11,16,13,22,10,15
+"bottles.plas.bin","bottles.plas.bin","rope.bin","bottles.plas.bin","cabletie.bin","fishline.mono.bin","cans.drink.bin","fishline.tang.bin","fishnet.bin",10,15,9,7,16,12,19,9,14
+"sheet.bin","cabletie.bin","cans.drink.bin","caps.bin","other.plas.bin","bobbins.bin","gloves.bin","cans.drink.bin","clothing.bin",10,14,8,7,16,12,14,9,12
+"band.bin","rope.bin","fishing.met.bin","other.misc.bin","crates.bin","rope.bin","band.bin","gloves.bin","band.bin",10,13,7,5,12,12,12,9,9
+"wood.proc.bin","cans.food.bin","clothing.bin","crates.bin","gloves.bin","other.misc.bin","wood.proc.bin","other.rub.bin","bobbins.bin",10,6,7,4,10,10,11,9,8
+"other.plas.bin","gloves.bin","gloves.bin","cans.drink.bin","clothing.bin","other.plas.bin","rope.bin","band.bin","rope.bin",9,6,6,4,10,9,11,7,8
+"clothing.bin","other.rub.bin","other.misc.bin","gloves.bin","rope.bin","cans.drink.bin","fishline.tang.bin","bobbins.bin","other.rub.bin",8,5,5,4,9,6,10,7,6
+"other.misc.bin","other.misc.bin","bobbins.bin","cabletie.bin","fishline.tang.bin","fishline.tang.bin","other.misc.bin","rope.bin","fishing.met.bin",7,5,4,3,8,4,10,6,5

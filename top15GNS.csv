@@ -1,0 +1,16 @@
+"items_2012","items_2013","items_2014","items_2015","items_2016","items_2017","items_2018","items_2019","items_2020","freq_2012","freq_2013","freq_2014","freq_2015","freq_2016","freq_2017","freq_2018","freq_2019","freq_2020"
+"other.plas.bin","sheet.bin","sheet.bin","sheet.bin","sheet.bin","synthrope.bin","fishline.mono.bin","synthrope.bin","synthrope.bin",65,141,147,140,210,258,229,235,201
+"synthrope.bin","synthrope.bin","synthrope.bin","synthrope.bin","synthrope.bin","sheet.bin","sheet.bin","sheet.bin","fishline.mono.bin",61,116,132,135,204,229,200,211,189
+"fishline.mono.bin","fishline.mono.bin","bag.bin","bag.bin","fishline.mono.bin","fishline.mono.bin","synthrope.bin","fishline.mono.bin","sheet.bin",46,83,116,75,165,172,189,205,167
+"sheet.bin","bag.bin","fishline.mono.bin","fishline.mono.bin","fishline.tang.bin","fishline.tang.bin","bag.bin","bag.bin","bag.bin",35,82,111,74,95,87,109,95,90
+"fishline.tang.bin","fishline.tang.bin","fishline.tang.bin","fishline.tang.bin","bag.bin","other.plas.bin","fishline.tang.bin","fishline.tang.bin","fishline.tang.bin",35,80,78,65,85,82,87,83,84
+"bag.bin","other.plas.bin","other.plas.bin","other.plas.bin","other.plas.bin","bag.bin","other.plas.bin","other.plas.bin","other.plas.bin",33,53,63,48,67,79,77,79,64
+"fishnet.bin","fishnet.bin","fishnet.bin","band.bin","clothing.bin","clothing.bin","rope.bin","rope.bin","fishnet.bin",27,35,55,35,30,31,35,31,25
+"rope.bin","rope.bin","rope.bin","fishnet.bin","fishnet.bin","fishnet.bin","other.misc.bin","clothing.bin","bottles.plas.bin",25,27,27,34,28,30,33,26,22
+"wood.proc.bin","clothing.bin","clothing.bin","caps.bin","gloves.bin","other.misc.bin","other.met.bin","band.bin","clothing.bin",24,25,19,31,27,30,27,25,20
+"other.misc.bin","wood.proc.bin","other.misc.bin","other.misc.bin","other.misc.bin","rope.bin","fishnet.bin","fishnet.bin","rope.bin",18,24,16,29,25,22,26,23,19
+"clothing.bin","band.bin","bottles.plas.bin","clothing.bin","rope.bin","other.rub.bin","clothing.bin","other.rub.bin","other.rub.bin",17,14,13,25,19,21,26,22,18
+"other.met.bin","bottles.glass.bin","other.met.bin","gloves.bin","bottles.plas.bin","band.bin","band.bin","wood.proc.bin","band.bin",14,13,13,20,16,20,23,22,17
+"other.nat.bin","other.misc.bin","wood.proc.bin","other.met.bin","band.bin","cans.drink.bin","other.rub.bin","gloves.bin","other.misc.bin",13,13,12,19,16,16,21,20,13
+"gloves.bin","gloves.bin","cabletie.bin","wood.proc.bin","wood.proc.bin","bottles.glass.bin","gloves.bin","other.misc.bin","cans.drink.bin",10,12,10,13,16,15,16,18,12
+"cans.drink.bin","other.nat.bin","other.nat.bin","bottles.glass.bin","other.rub.bin","gloves.bin","bottles.plas.bin","bottles.glass.bin","bobbins.bin",8,12,10,11,15,12,13,16,12
